@@ -27,8 +27,8 @@ A responsive, accessible web application for tracking student financial transact
 
 1. **Clone the repository**:
    ```bash
-   git clone <your-repo-url>
-   cd student-finance-tracker
+   git clone https://github.com/MBeckyAlek/-frontend-web-dev-summative-Becky-Alek-
+   cd -frontend-web-dev-summative-Becky-Alek-
    ```
 
 2. **Open in browser**:
@@ -142,5 +142,6 @@ A 2-3 minute demonstration video showcasing:
 - Email: [Your Email Address]
 
 ## 📄 License
+
 
 This project is created for educational purposes as part of a summative assignment.
