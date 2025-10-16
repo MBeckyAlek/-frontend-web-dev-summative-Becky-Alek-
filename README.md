@@ -114,7 +114,7 @@ student-finance-tracker/
 ## 🚀 Deployment
 
 This application is deployed on GitHub Pages. The live version can be accessed at:
-[Your GitHub Pages URL]
+https://mbeckyalek.github.io/-frontend-web-dev-summative-Becky-Alek-/
 
 ## 📊 Sample Data
 
@@ -138,10 +138,11 @@ A 2-3 minute demonstration video showcasing:
 ## 👨‍💻 Developer
 
 **Student Developer**
-- GitHub: [Your GitHub Username]
-- Email: [Your Email Address]
+- GitHub: [MbeckyAlek]
+- Email: [a.alek@alustudent.com]
 
 ## 📄 License
 
 
 This project is created for educational purposes as part of a summative assignment.
+
